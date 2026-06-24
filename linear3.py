@@ -1,4 +1,4 @@
-# Linear Transformation Example — Video 3
+# Linear Transformation Example — Lecture 3
 
 # Transformation = a function that changes a vector into another vector.
 # 2 Main Properties of Linear Transformation:
